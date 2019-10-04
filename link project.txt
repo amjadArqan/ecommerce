@@ -1,0 +1,36 @@
+1) Install Intervention Package :-
+    For resizing images, we will install Intervention package by giving below command :-
+    composer.phar require intervention/image (For Windows)
+    php composer.phar require intervention/image (For Other OS)
+
+2) We need to add enctype = "multipart/form-data" in form and also we will give image id and name.
+
+3) SweetAlert Javascript Library
+   https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js
+
+4) https://www.codexworld.com/add-remove-input-fields-dynamically-using-jquery/
+
+5) https://www.free-css.com/free-css-templates/page203/e-shopper
+
+6) https://i-like-robots.github.io/EasyZoom/
+
+7) https://laraveldaily.com/laravel-blade-foreach-trick-splitting-results-chunks/
+
+8) https://jqueryui.com/datepicker/
+
+9) https://www.jqueryscript.net/form/Visual-Password-Strength-Indicator-Plugin-For-jQuery-Passtrength-js.html
+
+10) https://github.com/raramuridesign/mysql-country-list/blob/master/mysql-country-list.sql
+
+11)https://developer.paypal.com/developer/accounts
+
+12) use Gmail SMTP server to send emails from offline apache server.
+13)php artisan config:cache
+
+14)http://www.yopmail.com/en/
+
+15) https://medium.com/@agavitalis/how-to-send-an-email-in-laravel-using-gmail-smtp-server-53d962f01a0c
+
+16)http://www.yopmail.com/en/
+
+17)https://bootsnipp.com/snippets/9gjD
